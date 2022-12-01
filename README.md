@@ -8,7 +8,7 @@ Features include:
 - World, Entity, Component, System,
 - Tags are differentiated from Components.
 - RuntimeTags are tags that can be defined at runtime.
-- Pairs
+- Three versions of Pairs: (Tag, Tag), (Tag, Component), (Tag, Entity)
 - Queries, Filters, Observers
 - A universal Iterator
 - A new concept called the ManagedComponent which can attach a managed object as a Component to an Entity. (Useful for attaching MonoBehaviours)
